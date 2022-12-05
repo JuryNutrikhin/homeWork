@@ -54,6 +54,8 @@ public class TestSet {
         System.out.println("removeAll - разость множеств set1 и set2 " +difference );
 
         System.out.println( "Тест для git");
+        System.out.println( "Тест для git2");
+
 
 
 
