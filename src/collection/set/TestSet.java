@@ -15,7 +15,7 @@ public class TestSet {
         treeSet.add("Katy");
         treeSet.add("Bob");
         treeSet.add("Donald");
-        treeSet.add("Mike");
+
 
         for (String name :
                 treeSet) {
@@ -52,6 +52,8 @@ public class TestSet {
         Set<Integer> difference = new HashSet<>(set1);
         difference.removeAll(set2);
         System.out.println("removeAll - разость множеств set1 и set2 " +difference );
+
+        System.out.println( "Тест для git");
 
 
 
