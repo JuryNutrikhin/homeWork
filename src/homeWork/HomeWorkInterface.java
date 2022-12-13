@@ -1,3 +1,5 @@
+package homeWork;
+
 public interface HomeWorkInterface {
 
 //    В текушем проекте начисления ЗП создать интерфейс со следующими полями

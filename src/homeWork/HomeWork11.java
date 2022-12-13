@@ -1,3 +1,5 @@
+package homeWork;
+
 public class HomeWork11 {
     public static void main(String[] args) {
         //Задача 1. Сколько раз в матрице встречается заданное число

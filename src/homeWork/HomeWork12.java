@@ -1,3 +1,5 @@
+package homeWork;
+
 public class HomeWork12 {  //пюанрюер ме ядюмн
     public static void main(String[] args) {
 
